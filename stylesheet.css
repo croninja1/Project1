@@ -1,3 +1,8 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
 .banner {
     display: flex;
     flex-direction: row;
