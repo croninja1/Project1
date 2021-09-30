@@ -9,7 +9,7 @@
     top: 0;
     left: 0;
     right: 0;
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(72,153,76,1) 100%);
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(158,201,160,1) 42%, rgba(57,124,60,1) 100%);
     justify-content: space-between;
 }
