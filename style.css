@@ -57,6 +57,7 @@ body {
     height: 75px;
     border: 4px solid #04AA6D;
     border-radius: 25px;
+    border-color: #333;
 
 }
 
@@ -67,3 +68,4 @@ body {
     width: 80%;
 }
 
+img { max-width: 100%; height: auto; }
