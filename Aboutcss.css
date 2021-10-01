@@ -56,6 +56,8 @@ header {
     border: 4px solid #04AA6D;
     border-radius: 25px;
     border-color: #333;
+    font-style: serif;
+    font-size: large;
 }
 
 .header2 {
@@ -71,6 +73,8 @@ header {
     border: 4px solid #04AA6D;
     border-radius: 25px;
     border-color: #333;
+    font-style: serif;
+    font-size: large;
 }
 
 #emblem {

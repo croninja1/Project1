@@ -39,3 +39,19 @@ body {
     top: 0px;
     right: 0px;
 }
+
+.exec-box {
+    display: block;
+    background-color: white;
+    color:#04AA6D;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 130px;
+    margin-bottom: 15px;
+    border: 4px solid #04AA6D;
+    border-radius: 25px;
+    border-color: #333;
+    font-style: serif;
+    font-size: large;
+}
