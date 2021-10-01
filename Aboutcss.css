@@ -58,6 +58,27 @@ header {
     border-color: #333;
 }
 
+.header2 {
+    display: block;
+    display: block;
+    background-color: white;
+    color:#04AA6D;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 4px solid #04AA6D;
+    border-radius: 25px;
+    border-color: #333;
+}
+
+#emblem {
+    display: block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 /* .About-paragraph {
     display: block;
     background-color: white;
