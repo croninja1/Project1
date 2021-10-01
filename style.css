@@ -48,11 +48,16 @@ body {
     text-align: center;
     align-items: center;
     margin-top: 130px;
+    margin-bottom: 15px;
     height: 75px;
+    border: 4px solid #04AA6D;
+    border-radius: 25px;
 
 }
 
-#symbol {
-    width: 1400px;
-    align-items: center;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
